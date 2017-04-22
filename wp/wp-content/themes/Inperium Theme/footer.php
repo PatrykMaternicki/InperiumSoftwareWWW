@@ -1,0 +1,1 @@
+<section class="copyright">Copyright 2015 <span>INPERIUM &copy</span></section>
